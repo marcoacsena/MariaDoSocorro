@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MariaDoSocorro</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="sim">SIM</string>
+    <string name="previous">Previous</string>
+    <string name="nome_da_pessoa">Seu nome é Socorro Sena?</string>
+    <string name="feito_com_carinho_por_lu_e_marco_sena">Feito com carinho, por Lu e Marco Sena, para comemorar
+        os 60 anos das minhas irmãs gêmeas!!!!</string>
+</resources>
